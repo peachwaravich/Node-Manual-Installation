@@ -10,7 +10,7 @@
 ###############################################################################
 
 
-NODEOSBINDIR="/opt/bin/bin"
+NODEOSBINDIR="/opt/eos/build/bin"
 DATADIR="/opt/Mainnet"
 
 $DATADIR/stop.sh

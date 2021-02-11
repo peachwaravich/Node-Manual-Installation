@@ -9,7 +9,7 @@
 #
 ###############################################################################
 
-NODEOSBINDIR="/opt/bin/bin"
+NODEOSBINDIR="/opt/eos/build/bin"
 
 WALLETHOST="127.0.0.1"
 NODEHOST="127.0.0.1"
